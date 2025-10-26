@@ -40,13 +40,14 @@ Design & Documentation: Figma • Canva • Markdown
 
 - [**Mining Data Dashboard**](#) – Analyze stope widths, blast sequencing, and equipment utilization. *(Python, Pandas, Streamlit)*  
 - [**Safety & Risk Tracker**](#) – Log and analyze workplace hazards, compliance checks, and safety KPIs. *(Python, FastAPI, SQLite)*  
-- [**Smart Luggage Tracker**](#) – IoT-inspired luggage tracking backend. *(Python, SQLite, REST APIs)*  
+- [**SmartTrack Luggage Tracker**](https://github.com/Axulo-Inc/smarttrack-luggage) – IoT-enabled smart luggage solution)*
+-  [**Axulo Digital Library System**](https://github.com/Axulo-Inc/axulo-library-system) – Professional full-stack library management with web interface. *(Python, Flask, SQLite, Bootstrap)*
 
 ---
 
 ## 📌 Projects
-- [SmartTrack Luggage Tracker](#) – IoT-enabled smart luggage solution  
-- [DormNest App](#) – Helping students find housing faster  
+- [**SmartTrack Luggage Tracker**](https://github.com/Axulo-Inc/smarttrack-luggage) – IoT-enabled smart luggage solution  
+- [**DormNest App**](https://github.com/Axulo-Inc/dormnest-app) – Helping students find housing faster  
 - [Mining Optimization Models](#) – Data-driven mining efficiency  
 
 ---
