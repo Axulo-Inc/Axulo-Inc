@@ -58,7 +58,8 @@ Design & Documentation: Figma • Canva • Markdown
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Axulo-Inc&theme=radical&row=2&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Axulo-Inc)
+
 ---
 
 ## ✍️ Random Dev Quote  
