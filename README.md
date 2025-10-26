@@ -53,13 +53,12 @@ Design & Documentation: Figma • Canva • Markdown
 ---
 
 ## 📊 GitHub Stats  
-![Thabang's GitHub stats](https://github-readme-stats.vercel.app/api?axulo-inc=thabangmotsoahae&show_icons=true&theme=tokyonight)  
+![Thabang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axulo-Inc&show_icons=true&theme=tokyonight)   
 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?axulo-inc=thabangmotsoahae&theme=onedark&no-frame=true&no-bg=true&margin-w=4)  
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Axulo-Inc&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 ## ✍️ Random Dev Quote  
