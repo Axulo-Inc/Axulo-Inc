@@ -38,7 +38,7 @@ Design & Documentation: Figma • Canva • Markdown
 - [**ThreatHunter Lite**](https://github.com/Axulo-Inc/threat-hunter-lite) – Cybersecurity log analysis tool detecting suspicious activities with MITRE ATT&CK mapping. *(Python, Pandas, Tkinter, Cybersecurity)*  
 - [**Mining Data Dashboard**](https://github.com/Axulo-Inc/mining-data-dashboard) – Analyze stope widths, blast sequencing, and equipment utilization. *(Python, Pandas, Streamlit)*  
 - [**Safety & Risk Tracker**](#) – Log and analyze workplace hazards, compliance checks, and safety KPIs. *(Python, FastAPI, SQLite)*  
-- [**SmartTrack Luggage Tracker**](https://github.com/Axulo-Inc/smarttrack-luggage) – IoT-enabled smart luggage solution*
+- [**SmartTrack Luggage Tracker**](https://github.com/Axulo-Inc/smarttrack-luggage-tracker) – IoT-enabled smart luggage solution*
 - [**Axulo Digital Library System**](https://github.com/Axulo-Inc/axulo-library-system) – Professional full-stack library management with web interface. *(Python, Flask, SQLite, Bootstrap)*
 
 ---
