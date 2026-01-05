@@ -1,13 +1,14 @@
-# 👋 Hi, I’m Thabang Alfred Motsoahae
+# 👋 Hi, I'm Thabang Alfred Motsoahae
 
-**Business Analyst | Data & BI Analyst | Tech Entrepreneur**
+**Business Analyst | Data & BI Analyst | Tech Entrepreneur**  
 **Founder & CEO – Axulo Inc**
 
 I bring **5+ years of hands-on mining and operations experience** into **data analytics, business analysis, and technology**, building **practical, execution-focused solutions** that improve efficiency, safety, and decision-making in real-world environments.
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-motsoahae-10272b96/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Axulo-Inc)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Here-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-motsoahae-10272b96/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Axulo_Inc-000000?style=flat&logo=github&logoColor=white)](https://github.com/Axulo-Inc)  
+✉️ **Email:** [alfred_the_first@hotmail.com](mailto:alfred_the_first@hotmail.com)
 
 ---
 
@@ -37,39 +38,31 @@ While I lead **Axulo Inc** as Founder & CEO, I am **actively open to professiona
 
 ## 📊 Domain Expertise
 
-**Business Analysis & Strategy**
-Requirements analysis · Process mapping · Reporting · Decision support
-
-**Mining & Operations Management**
-Drill & blast · Stope width control · Resource planning · Risk management · SHEQ compliance
-
-**Data, Analytics & Technology**
-Python · SQL (foundational) · Power BI · Backend APIs · Cybersecurity fundamentals
-
-**Entrepreneurship & Leadership**
-Founder & CEO – Axulo Inc · Product ideation · Early-stage execution
+| Area | Skills & Experience |
+|------|-------------------|
+| **Business Analysis & Strategy** | Requirements analysis · Process mapping · Reporting · Decision support |
+| **Mining & Operations Management** | Drill & blast · Stope width control · Resource planning · Risk management · SHEQ compliance |
+| **Data, Analytics & Technology** | Python · SQL · Power BI · APIs · Cybersecurity fundamentals |
+| **Entrepreneurship & Leadership** | Founder & CEO – Axulo Inc · Product ideation · Early-stage execution |
 
 ---
 
 ## 🧰 Tech Stack
 
-**Programming & Querying**
-Python · SQL
+### **Programming & Querying**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Data, BI & Analytics**
-Pandas · Matplotlib · Power BI · Excel
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Backend & Full-Stack**
-FastAPI · Flask · HTML · CSS · JavaScript (foundational)
+### **Backend & Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
 
-**Databases**
-SQLite
+### **BI & Analytics**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**DevOps & Collaboration**
-Git · GitHub · GitLab · Postman · Windows Terminal
-
-**Design & Documentation**
-Figma · Canva · Markdown
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -77,65 +70,44 @@ Figma · Canva · Markdown
 
 ### 🟢 Active / MVP Projects
 
-**ThreatHunter Lite** – *Active*
-Cybersecurity log analysis tool detecting suspicious activity using MITRE ATT&CK mapping.
-*Python · Pandas · Tkinter*
-🔗 [https://github.com/Axulo-Inc/threat-hunter-lite](https://github.com/Axulo-Inc/threat-hunter-lite)
-
-**Mining Data Dashboard** – *Active*
-Operational BI dashboard analysing stope widths, blast sequencing, and equipment utilisation.
-*Python · Pandas · Streamlit · BI concepts*
-🔗 [https://github.com/Axulo-Inc/mining-data-dashboard](https://github.com/Axulo-Inc/mining-data-dashboard)
-
-**Safety & Risk Tracker** – *MVP*
-Safety management system for hazards, audits, and SHEQ KPIs.
-*Python · FastAPI · SQLite*
-
----
+| Project | Status | Description | Tech |
+|---------|--------|-------------|------|
+| **[ThreatHunter Lite](https://github.com/Axulo-Inc/threat-hunter-lite)** | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | Cybersecurity log analysis with MITRE ATT&CK mapping | Python · Pandas · Tkinter |
+| **[Mining Data Dashboard](https://github.com/Axulo-Inc/mining-data-dashboard)** | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | Operational BI dashboard for mining analytics | Python · Streamlit · BI |
+| **[Safety & Risk Tracker](https://github.com/Axulo-Inc/safety-risk-tracker)** | ![MVP](https://img.shields.io/badge/Status-MVP-yellow) | Safety management system for hazards & audits | FastAPI · SQLite |
 
 ### 🟡 Product & Venture Projects
 
-**SmartTrack Luggage Tracker** – *Flagship Concept*
-IoT-enabled smart luggage tracking solution.
-*IoT · Embedded · Cloud*
-🔗 [https://github.com/Axulo-Inc/smarttrack-luggage-tracker](https://github.com/Axulo-Inc/smarttrack-luggage-tracker)
-
-**Axulo Digital Library System** – *Completed*
-Full-stack library management system with web interface.
-*Python · Flask · SQLite · Bootstrap*
-🔗 [https://github.com/Axulo-Inc/axulo-library-system](https://github.com/Axulo-Inc/axulo-library-system)
+| Project | Status | Description | Tech |
+|---------|--------|-------------|------|
+| **[SmartTrack Luggage Tracker](https://github.com/Axulo-Inc/smarttrack-luggage-tracker)** | ![Concept](https://img.shields.io/badge/Status-Concept-blue) | IoT-enabled smart luggage tracking | IoT · Embedded · Cloud |
+| **[Axulo Library System](https://github.com/Axulo-Inc/axulo-library-system)** | ![Completed](https://img.shields.io/badge/Status-Completed-green) | Full-stack library management system | Flask · Bootstrap · SQLite |
 
 ---
 
 ## 📂 Additional Projects
 
-* **SmartTrack Luggage (Core Tech)** – IoT foundations
-  🔗 [https://github.com/Axulo-Inc/smarttrack-luggage](https://github.com/Axulo-Inc/smarttrack-luggage)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **SmartTrack Luggage (Core Tech)** | IoT foundations for luggage tracking | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **DormNest App** | Student housing discovery platform | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white) |
+| **Banking App** | Full-stack banking application | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **NASA Space App** | Space-related data analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white) |
 
-* **DormNest App** – Student housing discovery platform
-  🔗 [https://github.com/Axulo-Inc/dormnest-app](https://github.com/Axulo-Inc/dormnest-app)
-
-* **Banking App** – Full-stack banking application
-  🔗 [https://github.com/Axulo-Inc/banking-app](https://github.com/Axulo-Inc/banking-app)
-
-* **NASA Space App** – Space-related data analysis
-  🔗 [https://github.com/Axulo-Inc/NASA_SPACE_APP](https://github.com/Axulo-Inc/NASA_SPACE_APP)
-
-* **Axulo Inc – GitHub Organisation**
-  🔗 [https://github.com/Axulo-Inc](https://github.com/Axulo-Inc)
+**📁 View all projects:** [Axulo Inc GitHub](https://github.com/Axulo-Inc)
 
 ---
 
 ## 🔄 Currently Working On
 
-* Business Analyst–focused dashboards and case studies
-* Operational BI and reporting projects
-* SmartTrack Luggage technical validation
-* Process optimisation models from mining & operations data
+* **BA Portfolio Development** – Business analysis case studies and process documentation
+* **Operational BI Suite** – Mining, safety, and efficiency dashboards (Streamlit/Power BI)
+* **SmartTrack Technical Validation** – IoT prototype with FastAPI backend
+* **Process Optimization Models** – Data-driven mining operations improvements
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Education
 
 * **IBM Business Intelligence Analyst Certificate** – Coursera
 * **IBM Cybersecurity Analyst Certificate** – Coursera
@@ -147,29 +119,33 @@ Full-stack library management system with web interface.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Thabang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axulo-Inc\&show_icons=true\&theme=dark)
+<div align="center">
+  
+![Thabang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axulo-Inc&show_icons=true&theme=dark&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axulo-Inc&layout=compact&theme=dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Axulo-Inc\&theme=darkhub)
-
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+</div>
 
 ---
 
 ## 📫 Contact & Availability
 
-📍 **Location:** South Africa
-💼 **Availability:** Full-time · Contract · Consulting
+📍 **Location:** Johannesburg, South Africa  
+💼 **Availability:** Open to full-time, contract, or consulting opportunities  
+🎯 **Seeking:** Business Analyst | Data Analyst | Digital Transformation roles  
+✉️ **Email:** [alfred_the_first@hotmail.com](mailto:alfred_the_first@hotmail.com)
 
-> Mining taught me precision, discipline, and accountability. I apply the same principles to building reliable, data-driven technology solutions.
+---
 
-*Some projects are under active development. Contributions and feedback are welcome.*
+> ***"Mining taught me precision, discipline, and accountability. I apply the same principles to building reliable, data-driven technology solutions."***
+
+---
+
+<div align="center">
+  
+*Some projects are under active development. Contributions and feedback are welcome!*
+
+</div>
