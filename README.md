@@ -3,7 +3,7 @@
 **Business Analyst | Data & BI Analyst | Tech Entrepreneur**  
 **Founder & CEO – Axulo Inc**
 
-I bring **5+ years of hands-on mining and operations experience** into **data analytics, business analysis, and technology**, building **practical, execution-focused solutions** that improve efficiency, safety, and decision-making in real-world environments.
+I bring 5+ years of hands-on mining and operations experience into data analytics, business analysis, and technology, building practical, production-ready, execution-focused solutions that improve efficiency, safety, and decision-making in real-world environments.
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Here-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabang-motsoahae-10272b96/)  
