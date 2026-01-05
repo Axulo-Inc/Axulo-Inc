@@ -55,7 +55,7 @@ While I lead **Axulo Inc** as Founder & CEO, I am **actively open to professiona
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### **Backend & Frameworks**
+### **Backend & Systems (API-first)**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
 
 ### **BI & Analytics**
@@ -107,6 +107,18 @@ While I lead **Axulo Inc** as Founder & CEO, I am **actively open to professiona
 
 ---
 
+## 🧠 How I Think as a Business Analyst
+
+I approach problems by:
+- Understanding business objectives and constraints
+- Mapping current-state vs future-state processes
+- Translating requirements into data models and system designs
+- Validating solutions using measurable KPIs
+
+My background in operations allows me to design solutions that work in real, high-risk environments — not just on paper.
+
+---
+
 ## 📜 Certifications & Education
 
 * **IBM Business Intelligence Analyst Certificate** – Coursera
@@ -116,7 +128,6 @@ While I lead **Axulo Inc** as Founder & CEO, I am **actively open to professiona
 * **Diploma: Financial Management for Managers**
 * **National Certificate: Rock-Breaking (Underground Hard-Rock Mining)**
 * **Mine Overseer Certificate** – In Progress
-
 ---
 
 ## 📊 GitHub Activity
